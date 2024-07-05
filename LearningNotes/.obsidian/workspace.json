@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "7da6f6afd83ae3f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed6040919490b252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4ca33b71cf7e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4feefa809d7b49e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b035d56910fe1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23fd87a27369a4fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7acce39bff01ce27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92392784cad3b4d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b5dbaae3ea6ff7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfa64245d9d00d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f8f6d37e07471d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b527ab30b48c0542",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbb9a02cf0ebcb46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c1947970966203f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cd4ca33b71cf7e4d",
+  "lastOpenFiles": [
+    "elda.top.md",
+    "README.md",
+    "Diary/2024-07-01.md",
+    "Diary/2024-06-18.md",
+    "Diary/2024-06-11.md",
+    "Diary/2024-05-28.md",
+    "Diary/2024-05-25.md",
+    "Diary/2024-05-29.md",
+    "Diary/2024-05-30.md",
+    "Diary/2024-05-22.md",
+    "Diary/2024-05-20.md",
+    "Diary/2024-05-18.md",
+    "Diary/2024-05-17.md",
+    "Diary/2024-05-16.md",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0/Project 0 Degree.md",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0/Search-Lecture0.md",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0/Quiz 0.md",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0/Pasted image 20240704134338.png",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0/Pasted image 20240704140255.png",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0/Pasted image 20240704140309.png",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture-0",
+    "ComputerScienceTech/CS-self-learning/CS50-AI/Lecture 0.md",
+    "Diary/2024-06-10.md",
+    "ComputerScienceTech/CS-self-learning/CS50-AI",
+    "Diary/2024-07-03.md",
+    "ComputerScienceTech/项目/课外创新项目实践/容器镜像管理日志.md",
+    "ComputerScienceTech/项目/课外创新项目实践/敏捷开发与DevOps.md",
+    "ComputerScienceTech/项目/课外创新项目实践/基于Python的数据爬取系统设计.md",
+    "Learning-in-UESTC/Semester-2/英语词汇复习.md",
+    "未命名 1.md",
+    "ComputerScienceTech/项目/课外创新项目实践/Python Web构建部署日志.md",
+    "ComputerScienceTech/CS-self-learning",
+    "Learning-in-UESTC/Semester-1",
+    "Learning-in-UESTC/Semester-2",
+    "ComputerScienceTech/项目",
+    "ComputerScienceTech/项目/课外创新项目实践",
+    "ComputerScienceTech/项目/HarmonyOS开发记录/image/App-Pack示例.png",
+    "ComputerScienceTech/项目/HarmonyOS开发记录/image",
+    "ComputerScienceTech/项目/HarmonyOS开发记录",
+    "ComputerScienceTech",
+    "HarmonyOS开发记录/image/App-Pack示例.png"
+  ]
+}
